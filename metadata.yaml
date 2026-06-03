@@ -1,0 +1,6 @@
+name: astrbot_plugin_anysearch
+desc: AnySearch 匿名搜索工具 — 独立插件，不用即弃。提供 anysearch_search 单一工具，调用 AnySearch API 搜索互联网，返回标题+URL+全文摘要+质量评分。匿名免费配额 1000 次/天，适合技术文档、学术资料、安全分析等深度查询场景。
+version: 1.0.0
+author: 伊尔弥亚
+short_desc: AnySearch 匿名搜索 — 独立插件/不用即弃
+astrbot_version: ">=4.16"
