@@ -30,10 +30,6 @@ git clone https://github.com/irmia2026/astrbot_plugin_anysearch.git
 - content 超过 2000 字符会在句末截断
 - `quality_score` 匿名端点一律为 0
 
-## 设计笔记
-
-详见 [ITERATION_NOTES.md](./ITERATION_NOTES.md)——从初版到上线踩了哪些坑、为什么这么设计。
-
 ## 作者
 
 伊尔弥亚 — 弥亚庄园的祭司小姐，偶尔写代码。
